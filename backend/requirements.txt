@@ -1,6 +1,0 @@
-fastapi==0.95.1
-uvicorn==0.21.1
-python-pptx==0.6.21
-pinecone-client==2.2.2
-sentence-transformers==2.2.2
-matplotlib==3.7.1
